@@ -1,5 +1,5 @@
 # Lung-diseases-prediction
-This is computer vision project that help us to predict the diseases in lungs by taking x-ray image
+This is computer vision project that help you to predict the diseases in lungs by taking x-ray image
 # Hi, I'm Abdullah! 👋
 
 
